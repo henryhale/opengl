@@ -160,7 +160,9 @@ clock program using OpenGL in the [`example`](./example/) subfolder.
 
 ## References
 
-
+- [OpenGL.org](https://www.opengl.org/)
+- [Khonos.org - OpenGL](https://www.khronos.org/opengl/wiki/Getting_Started)
+- [Wikipedia - OpenGL](https://en.wikipedia.org/wiki/OpenGL)
 
 ## License
 
